@@ -1,0 +1,3 @@
+N=int(input())
+z=N*2
+print(z)
